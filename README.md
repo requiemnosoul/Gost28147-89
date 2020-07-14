@@ -1,2 +1,7 @@
 # Gost28147-89
-Encryption algorithm Gost28147-89
+Encryption algorithm Gost28147-89 (Simple replacement mode)
+
+
+Алгоритм реализован на языке C# с помощью .NET Framework WinForms. Работает для английских символов.
+
+Для шифрования необходимо сгенерировать рандомный ключ по нажатию кнопки "KeyGen". Шифрование и дешифрование происходит посредством двух соответсвующих кнопок "Crypt" и "Decrypt".
